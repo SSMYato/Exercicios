@@ -81,6 +81,6 @@
       "aside"
       "footer";
     grid-template-columns: auto;
-    grid-template-rows: 100px 50px auto auto 100px;
+    grid-template-rows: auto;
   }
 }
